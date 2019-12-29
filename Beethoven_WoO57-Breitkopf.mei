@@ -211,7 +211,7 @@
                                                 </beam>
                                             </layer>
                                         </staff>
-                                        <turn xml:id="incip-turn-0000001836288018" staff="1" tstamp="1.500000" accidlower="s" place="above"/>
+                                        <turn xml:id="incip-turn-0000001836288018" staff="1" tstamp="1.500000" accidlower="s" place="above" form="upper"/>
                                         <slur xml:id="incip-slur-0000001005227489" startid="#note-0000001874128259" endid="#note-0000001482761149"/>
                                         <tie xml:id="incip-tie-0000001293078178" startid="#note-0000000095248915" endid="#note-0000000667988803"/>
                                         <tie xml:id="incip-tie-0000001947505740" startid="#note-0000000583914054" endid="#note-0000001229809612"/>
@@ -494,7 +494,7 @@
                                         </beam>
                                     </layer>
                                 </staff>
-                                <turn xml:id="turn-0000001836288018" staff="1" tstamp="1.500000" accidlower="s" place="above"/>
+                                <turn xml:id="turn-0000001836288018" staff="1" tstamp="1.500000" accidlower="s" place="above" form="upper"/>
                                 <slur xml:id="slur-0000001005227489" startid="#note-0000001874128259" endid="#note-0000001482761149"/>
                                 <tie xml:id="tie-0000001293078178" startid="#note-0000000095248915" endid="#note-0000000667988803"/>
                                 <tie xml:id="tie-0000001947505740" startid="#note-0000000583914054" endid="#note-0000001229809612"/>
@@ -2724,7 +2724,7 @@
                                         </beam>
                                     </layer>
                                 </staff>
-                                <turn xml:id="turn-0000001931644168" staff="1" tstamp="1.500000" accidlower="n" form="lower"/>
+                                <turn xml:id="turn-0000001931644168" staff="1" tstamp="1.500000" accidlower="n" form="upper"/>
                             </measure>
                             <measure xml:id="measure-0000000726636785" n="54">
                                 <staff xml:id="staff-0000000857213423" n="1">
@@ -2956,7 +2956,7 @@
                                         </beam>
                                     </layer>
                                 </staff>
-                                <turn xml:id="turn-0000000153426498" staff="1" tstamp="1.500000" accidlower="s" form="lower"/>
+                                <turn xml:id="turn-0000000153426498" staff="1" tstamp="1.500000" accidlower="s" form="upper"/>
                                 <slur xml:id="slur-0000000381105530" startid="#note-0000001750673767" endid="#note-0000001042138823"/>
                                 <slur xml:id="slur-0000000406887848" startid="#note-0000000976129287" endid="#note-0000000976129288"/>
                                 <dynam xml:id="dynam-0000000999286604" place="below" staff="1" tstamp="1.000000" vgrp="80">cresc.</dynam>
@@ -3937,7 +3937,7 @@
                                         </beam>
                                     </layer>
                                 </staff>
-                                <turn xml:id="turn-0000002108383377" staff="1" tstamp="1.500000" accidlower="s" form="lower"/>
+                                <turn xml:id="turn-0000002108383377" staff="1" tstamp="1.500000" accidlower="s" form="upper"/>
                                 <slur xml:id="slur-0000001493771068" startid="#note-0000001302154750" endid="#note-0000000013437908" curvedir="below"/>
                                 <tie xml:id="tie-0000000482293845" startid="#note-0000000862497585" endid="#note-0000000309036673" curvedir="below"/>
                                 <dynam xml:id="dynam-0000001018591020" place="below" staff="1" tstamp="1.000000" vgrp="120">cresc.</dynam>
@@ -5688,7 +5688,7 @@
                                     </layer>
                                 </staff>
                                 <dynam xml:id="dynam-0000000669687820" place="above" staff="2" tstamp="1.000000" vgrp="80">cresc.</dynam>
-                                <turn xml:id="turn-0000001919275744" staff="1" tstamp="1.500000" accidlower="s" form="lower"/>
+                                <turn xml:id="turn-0000001919275744" staff="1" tstamp="1.500000" accidlower="s" form="upper"/>
                                 <slur xml:id="slur-0000000586042380" startid="#note-0000000435058214" endid="#note-0000001989068310" curvedir="below"/>
                                 <slur xml:id="slur-0000002068167875" startid="#note-0000000696419327" endid="#note-0000000527164783"/>
                             </measure>
@@ -6817,7 +6817,7 @@
                                 </staff>
                                 <slur xml:id="slur-0000001820145068" startid="#note-0000002074584464" endid="#note-0000001138187056"/>
                                 <slur xml:id="slur-0000001779235771" startid="#note-0000001038114949" endid="#note-0000001659517874" curvedir="below"/>
-                                <turn xml:id="turn-0000001424824969" staff="1" tstamp="1.500000" accidlower="s" form="lower"/>
+                                <turn xml:id="turn-0000001424824969" staff="1" tstamp="1.500000" accidlower="s" form="upper"/>
                                 <tie xml:id="tie-0000000833142827" startid="#note-0000000358836629" endid="#note-0000001440799615"/>
                                 <dynam xml:id="dynam-0000000015855637" place="below" staff="1" tstamp="1.000000" vgrp="80">cresc.</dynam>
                             </measure>
