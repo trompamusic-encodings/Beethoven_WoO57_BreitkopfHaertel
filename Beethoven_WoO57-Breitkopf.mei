@@ -354,7 +354,7 @@
                                         </chord>
                                     </layer>
                                 </staff>
-                                <tempo xml:id="tempo-0000001168788558" place="above" staff="1" tstamp="1.000000">Andante grazioso con moto.</tempo>
+                                <tempo xml:id="tempo-0000001168788558" place="above" staff="1" tstamp="1.000000" midi.bpm="92">Andante grazioso con moto.</tempo>
                                 <slur xml:id="slur-0000001483290253" startid="#note-0000001642495417" endid="#note-0000001752482544"/>
                                 <dynam xml:id="dynam-0000001641100966" place="below" staff="1" tstamp="1.000000" vgrp="80">p</dynam>
                                 <dynam xml:id="dynam-0000001641100967" place="below" staff="1" tstamp="1.50000" vgrp="80">dolce</dynam>
