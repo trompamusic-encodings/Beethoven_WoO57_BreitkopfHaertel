@@ -26,6 +26,10 @@
                <name xml:id="name-0000000470036055">Verovio</name>
                <p xml:id="p-0000001451122719">Transcoded from MusicXML</p>
             </application>
+            <application xml:id="a3fxtl3" startdate="2023-03-03T10:27:05" version="0.8.4" enddate="2023-03-03T10:37:42">
+               <name xml:id="n61673a">mei-friend</name>
+               <p xml:id="p9raws9">First edit by mei-friend 0.8.4, 27 Feb 2023.</p>
+            </application>
          </appInfo>
       </encodingDesc>
       <workList>
@@ -35,7 +39,7 @@
                <persName auth.uri="http://d-nb.info/gnd" auth="GND" codedval="118508288">Ludwig van Beethoven</persName>
             </composer>
             <key>F major</key>
-            <meter count="3" unit="8" />
+            <meter count="3" unit="8"/>
             <expressionList>
                <expression>
                   <title>Andante favori</title>
@@ -44,10 +48,10 @@
                         <scoreDef key.mode="major" key.sig="1f" meter.count="3" meter.unit="8">
                            <staffGrp xml:id="incip-staffgrp-0000000317109296" symbol="brace" bar.thru="true">
                               <staffDef xml:id="incip-staffdef-0000000275663629" n="1" lines="5" clef.shape="G" clef.line="2" key.sig="1f">
-                                 <instrDef xml:id="incip-instrdef-0000001261942659" midi.channel="0" midi.instrnum="0" midi.volume="78.00%" />
+                                 <instrDef xml:id="incip-instrdef-0000001261942659" midi.channel="0" midi.instrnum="0" midi.volume="78.00%"/>
                               </staffDef>
                               <staffDef xml:id="incip-staffdef-0000001708133501" n="2" lines="5" clef.shape="F" clef.line="4" key.sig="1f">
-                                 <instrDef xml:id="incip-instrdef-0000000306997604" midi.channel="1" midi.instrnum="0" midi.volume="78.00%" />
+                                 <instrDef xml:id="incip-instrdef-0000000306997604" midi.channel="1" midi.instrnum="0" midi.volume="78.00%"/>
                               </staffDef>
                            </staffGrp>
                         </scoreDef>
@@ -56,53 +60,53 @@
                               <staff xml:id="incip-staff-0000001752019005" n="1">
                                  <layer xml:id="incip-layer-0000002035133018" n="1">
                                     <beam xml:id="incip-beam-0000001508587757">
-                                       <note xml:id="incip-note-0000001642495417" dots="1" dur="16" oct="5" pname="c" stem.dir="up" />
-                                       <note xml:id="incip-note-0000001669107795" dur="32" oct="5" pname="d" stem.dir="up" />
+                                       <note xml:id="incip-note-0000001642495417" dots="1" dur="16" oct="5" pname="c" stem.dir="up"/>
+                                       <note xml:id="incip-note-0000001669107795" dur="32" oct="5" pname="d" stem.dir="up"/>
                                     </beam>
                                  </layer>
                                  <layer xml:id="incip-layer-0000000470763784" n="2">
-                                    <note xml:id="incip-note-0000000797162140" dur="8" oct="4" pname="f" stem.dir="down" />
+                                    <note xml:id="incip-note-0000000797162140" dur="8" oct="4" pname="f" stem.dir="down"/>
                                  </layer>
                               </staff>
                               <staff xml:id="incip-staff-0000000253088518" n="2">
                                  <layer xml:id="incip-layer-0000000402123757" n="1">
                                     <chord xml:id="incip-chord-0000001193142050" dur="8" stem.dir="down">
-                                       <note xml:id="incip-note-0000000362946790" oct="3" pname="a" />
-                                       <note xml:id="incip-note-0000000424349348" oct="4" pname="c" />
+                                       <note xml:id="incip-note-0000000362946790" oct="3" pname="a"/>
+                                       <note xml:id="incip-note-0000000424349348" oct="4" pname="c"/>
                                     </chord>
                                  </layer>
                               </staff>
                               <tempo xml:id="incip-tempo-0000001168788558" place="above" staff="1" tstamp="1.000000">Andante grazioso con moto.</tempo>
-                              <slur xml:id="incip-slur-0000001483290253" startid="#note-0000001642495417" endid="#note-0000001752482544" />
+                              <slur xml:id="incip-slur-0000001483290253" startid="#note-0000001642495417" endid="#note-0000001752482544"/>
                               <dynam xml:id="incip-dynam-0000001641100966" place="above" staff="2" tstamp="1.000000" vgrp="80">p dolce</dynam>
-                              <slur xml:id="incip-slur-0000002083622311" startid="#chord-0000001193142050" endid="#chord-0000001920991321" />
+                              <slur xml:id="incip-slur-0000002083622311" startid="#chord-0000001193142050" endid="#chord-0000001920991321"/>
                            </measure>
                            <measure xml:id="incip-measure-0000001901096994" n="1">
                               <staff xml:id="incip-staff-0000000367192777" n="1">
                                  <layer xml:id="incip-layer-0000001688485208" n="1">
                                     <beam xml:id="incip-beam-0000001521979398">
-                                       <note xml:id="incip-note-0000001230022769" dur="8" oct="5" pname="c" stem.dir="up" />
-                                       <note xml:id="incip-note-0000001315092561" dur="8" oct="4" pname="b" stem.dir="up" accid.ges="f" />
+                                       <note xml:id="incip-note-0000001230022769" dur="8" oct="5" pname="c" stem.dir="up"/>
+                                       <note xml:id="incip-note-0000001315092561" dur="8" oct="4" pname="b" stem.dir="up" accid.ges="f"/>
                                     </beam>
                                     <beam xml:id="incip-beam-0000001454859887">
-                                       <note xml:id="incip-note-0000000581316067" dots="1" dur="16" oct="4" pname="a" stem.dir="up" />
-                                       <note xml:id="incip-note-0000001428644920" dur="32" oct="4" pname="b" stem.dir="up" accid.ges="f" />
+                                       <note xml:id="incip-note-0000000581316067" dots="1" dur="16" oct="4" pname="a" stem.dir="up"/>
+                                       <note xml:id="incip-note-0000001428644920" dur="32" oct="4" pname="b" stem.dir="up" accid.ges="f"/>
                                     </beam>
                                  </layer>
                                  <layer xml:id="incip-layer-0000001758296656" n="2">
-                                    <note xml:id="incip-note-0000000169431025" dur="4" oct="4" pname="g" stem.dir="down" />
-                                    <note xml:id="incip-note-0000000063921253" dur="8" oct="4" pname="c" stem.dir="down" />
+                                    <note xml:id="incip-note-0000000169431025" dur="4" oct="4" pname="g" stem.dir="down"/>
+                                    <note xml:id="incip-note-0000000063921253" dur="8" oct="4" pname="c" stem.dir="down"/>
                                  </layer>
                               </staff>
                               <staff xml:id="incip-staff-0000001777175714" n="2">
                                  <layer xml:id="incip-layer-0000001789662722" n="1">
                                     <chord xml:id="incip-chord-0000002091988853" dur="4" stem.dir="down">
-                                       <note xml:id="incip-note-0000001205408772" oct="3" pname="e" />
-                                       <note xml:id="incip-note-0000001454383687" oct="4" pname="c" />
+                                       <note xml:id="incip-note-0000001205408772" oct="3" pname="e"/>
+                                       <note xml:id="incip-note-0000001454383687" oct="4" pname="c"/>
                                     </chord>
                                     <chord xml:id="incip-chord-0000000643134852" dur="8" stem.dir="down">
-                                       <note xml:id="incip-note-0000001167757255" oct="3" pname="f" />
-                                       <note xml:id="incip-note-0000001953915003" oct="3" pname="a" />
+                                       <note xml:id="incip-note-0000001167757255" oct="3" pname="f"/>
+                                       <note xml:id="incip-note-0000001953915003" oct="3" pname="a"/>
                                     </chord>
                                  </layer>
                               </staff>
@@ -111,21 +115,21 @@
                               <staff xml:id="incip-staff-0000000169084950" n="1">
                                  <layer xml:id="incip-layer-0000000689889669" n="1">
                                     <beam xml:id="incip-beam-0000000711456730">
-                                       <note xml:id="incip-note-0000000264314614" dur="8" oct="4" pname="a" stem.dir="up" />
-                                       <note xml:id="incip-note-0000001339535502" dur="8" oct="4" pname="g" stem.dir="up" />
+                                       <note xml:id="incip-note-0000000264314614" dur="8" oct="4" pname="a" stem.dir="up"/>
+                                       <note xml:id="incip-note-0000001339535502" dur="8" oct="4" pname="g" stem.dir="up"/>
                                     </beam>
                                     <beam xml:id="incip-beam-0000000838983483">
-                                       <note xml:id="incip-note-0000001502110613" dots="1" dur="16" oct="4" pname="f" stem.dir="up" />
+                                       <note xml:id="incip-note-0000001502110613" dots="1" dur="16" oct="4" pname="f" stem.dir="up"/>
                                        <note xml:id="incip-note-0000001752482544" dur="32" oct="4" pname="f" stem.dir="up">
-                                          <accid xml:id="incip-accid-0000001235898403" accid="s" />
+                                          <accid xml:id="incip-accid-0000001235898403" accid="s"/>
                                        </note>
                                     </beam>
                                  </layer>
                                  <layer xml:id="incip-layer-0000002145641149" n="2">
-                                    <note xml:id="incip-note-0000001245390819" dur="4" oct="4" pname="e" stem.dir="down" />
+                                    <note xml:id="incip-note-0000001245390819" dur="4" oct="4" pname="e" stem.dir="down"/>
                                     <beam xml:id="incip-beam-0000001675868796">
-                                       <note xml:id="incip-note-0000001907871271" dots="1" dur="16" oct="4" pname="d" stem.dir="down" />
-                                       <note xml:id="incip-note-0000001907871272" dur="32" oct="4" pname="d" stem.dir="down" />
+                                       <note xml:id="incip-note-0000001907871271" dots="1" dur="16" oct="4" pname="d" stem.dir="down"/>
+                                       <note xml:id="incip-note-0000001907871272" dur="32" oct="4" pname="d" stem.dir="down"/>
                                     </beam>
                                  </layer>
                               </staff>
@@ -133,20 +137,20 @@
                                  <layer xml:id="incip-layer-0000001909338406" n="1">
                                     <chord xml:id="incip-chord-0000000955589771" dur="4" stem.dir="down">
                                        <note xml:id="incip-note-0000000402452521" oct="3" pname="c">
-                                          <accid xml:id="incip-accid-0000001593516044" accid="s" />
+                                          <accid xml:id="incip-accid-0000001593516044" accid="s"/>
                                        </note>
-                                       <note xml:id="incip-note-0000001714568931" oct="3" pname="a" />
+                                       <note xml:id="incip-note-0000001714568931" oct="3" pname="a"/>
                                     </chord>
                                     <beam xml:id="incip-beam-0000001824447871">
                                        <chord xml:id="incip-chord-0000001146431340" dots="1" dur="16" stem.dir="down">
-                                          <note xml:id="incip-note-0000001723856031" oct="3" pname="d" />
-                                          <note xml:id="incip-note-0000001549637486" oct="3" pname="a" />
+                                          <note xml:id="incip-note-0000001723856031" oct="3" pname="d"/>
+                                          <note xml:id="incip-note-0000001549637486" oct="3" pname="a"/>
                                        </chord>
                                        <chord xml:id="incip-chord-0000001920991321" dur="32" stem.dir="down">
                                           <note xml:id="incip-note-0000000075556386" oct="3" pname="c">
-                                             <accid xml:id="incip-accid-0000000713344125" accid="n" />
+                                             <accid xml:id="incip-accid-0000000713344125" accid="n"/>
                                           </note>
-                                          <note xml:id="incip-note-0000000831983049" oct="3" pname="a" />
+                                          <note xml:id="incip-note-0000000831983049" oct="3" pname="a"/>
                                        </chord>
                                     </beam>
                                  </layer>
@@ -158,29 +162,29 @@
                                  <layer xml:id="incip-layer-0000000025165628" n="1">
                                     <beam xml:id="incip-beam-0000002051914984">
                                        <chord xml:id="incip-chord-0000000973197390" dur="8" stem.dir="up">
-                                          <note xml:id="incip-note-0000000095248915" oct="4" pname="d" />
-                                          <note xml:id="incip-note-0000000230430006" oct="4" pname="g" />
+                                          <note xml:id="incip-note-0000000095248915" oct="4" pname="d"/>
+                                          <note xml:id="incip-note-0000000230430006" oct="4" pname="g"/>
                                        </chord>
                                        <chord xml:id="incip-chord-0000001990789152" dots="1" dur="16" stem.dir="up">
-                                          <note xml:id="incip-note-0000000667988803" oct="4" pname="d" />
-                                          <note xml:id="incip-note-0000001398057404" oct="4" pname="g" />
+                                          <note xml:id="incip-note-0000000667988803" oct="4" pname="d"/>
+                                          <note xml:id="incip-note-0000001398057404" oct="4" pname="g"/>
                                        </chord>
                                        <chord xml:id="incip-chord-0000001330016030" dur="32" stem.dir="up">
-                                          <note xml:id="incip-note-0000001532207201" oct="4" pname="c" />
+                                          <note xml:id="incip-note-0000001532207201" oct="4" pname="c"/>
                                           <note xml:id="incip-note-0000000422134587" oct="4" pname="f">
-                                             <accid xml:id="incip-accid-0000001677517668" accid="s" />
+                                             <accid xml:id="incip-accid-0000001677517668" accid="s"/>
                                           </note>
-                                          <note xml:id="incip-note-0000001874128260" oct="4" pname="a" />
+                                          <note xml:id="incip-note-0000001874128260" oct="4" pname="a"/>
                                        </chord>
-                                       <note xml:id="incip-note-0000001874128259" dur="8" oct="5" pname="c" grace="unacc" />
+                                       <note xml:id="incip-note-0000001874128259" dur="8" oct="5" pname="c" grace="unacc"/>
                                        <chord xml:id="incip-chord-0000000036508898" dots="1" dur="16" stem.dir="up">
-                                          <note xml:id="incip-note-0000001331015271" oct="4" pname="d" />
-                                          <note xml:id="incip-note-0000001572209291" oct="4" pname="g" />
-                                          <note xml:id="incip-note-0000001482761149" oct="4" pname="b" accid.ges="f" />
+                                          <note xml:id="incip-note-0000001331015271" oct="4" pname="d"/>
+                                          <note xml:id="incip-note-0000001572209291" oct="4" pname="g"/>
+                                          <note xml:id="incip-note-0000001482761149" oct="4" pname="b" accid.ges="f"/>
                                        </chord>
                                        <chord xml:id="incip-chord-0000001564275772" dur="32" stem.dir="up">
-                                          <note xml:id="incip-note-0000001898546814" oct="4" pname="d" />
-                                          <note xml:id="incip-note-0000001288093430" oct="4" pname="g" />
+                                          <note xml:id="incip-note-0000001898546814" oct="4" pname="d"/>
+                                          <note xml:id="incip-note-0000001288093430" oct="4" pname="g"/>
                                        </chord>
                                     </beam>
                                  </layer>
@@ -189,49 +193,49 @@
                                  <layer xml:id="incip-layer-0000001563040691" n="1">
                                     <beam xml:id="incip-beam-0000002004923533">
                                        <chord xml:id="incip-chord-0000000276744785" dur="8" stem.dir="down">
-                                          <note xml:id="incip-note-0000000583914054" oct="2" pname="b" accid.ges="f" />
-                                          <note xml:id="incip-note-0000001930708253" oct="3" pname="b" accid.ges="f" />
+                                          <note xml:id="incip-note-0000000583914054" oct="2" pname="b" accid.ges="f"/>
+                                          <note xml:id="incip-note-0000001930708253" oct="3" pname="b" accid.ges="f"/>
                                        </chord>
                                        <chord xml:id="incip-chord-0000000428821296" dots="1" dur="16" stem.dir="down">
-                                          <note xml:id="incip-note-0000001229809612" oct="2" pname="b" accid.ges="f" />
-                                          <note xml:id="incip-note-0000000244402540" oct="3" pname="b" accid.ges="f" />
+                                          <note xml:id="incip-note-0000001229809612" oct="2" pname="b" accid.ges="f"/>
+                                          <note xml:id="incip-note-0000000244402540" oct="3" pname="b" accid.ges="f"/>
                                        </chord>
                                        <chord xml:id="incip-chord-0000002108795647" dur="32" stem.dir="down">
-                                          <note xml:id="incip-note-0000001134240117" oct="2" pname="a" />
-                                          <note xml:id="incip-note-0000000458329041" oct="3" pname="a" />
+                                          <note xml:id="incip-note-0000001134240117" oct="2" pname="a"/>
+                                          <note xml:id="incip-note-0000000458329041" oct="3" pname="a"/>
                                        </chord>
                                        <chord xml:id="incip-chord-0000000633332773" dots="1" dur="16" stem.dir="down">
-                                          <note xml:id="incip-note-0000000112350298" oct="2" pname="g" />
-                                          <note xml:id="incip-note-0000001494961279" oct="3" pname="g" />
+                                          <note xml:id="incip-note-0000000112350298" oct="2" pname="g"/>
+                                          <note xml:id="incip-note-0000001494961279" oct="3" pname="g"/>
                                        </chord>
                                        <chord xml:id="incip-chord-0000001906737761" dur="32" stem.dir="down">
-                                          <note xml:id="incip-note-0000000255546253" oct="2" pname="b" accid.ges="f" />
-                                          <note xml:id="incip-note-0000001790568593" oct="3" pname="b" accid.ges="f" />
+                                          <note xml:id="incip-note-0000000255546253" oct="2" pname="b" accid.ges="f"/>
+                                          <note xml:id="incip-note-0000001790568593" oct="3" pname="b" accid.ges="f"/>
                                        </chord>
                                     </beam>
                                  </layer>
                               </staff>
-                              <turn xml:id="incip-turn-0000001836288018" staff="1" tstamp="1.500000" accidlower="s" place="above" form="upper" />
-                              <slur xml:id="incip-slur-0000001005227489" startid="#note-0000001874128259" endid="#note-0000001482761149" />
-                              <tie xml:id="incip-tie-0000001293078178" startid="#note-0000000095248915" endid="#note-0000000667988803" />
-                              <tie xml:id="incip-tie-0000001947505740" startid="#note-0000000583914054" endid="#note-0000001229809612" />
-                              <tie xml:id="incip-tie-0000000320783826" startid="#note-0000001930708253" endid="#note-0000000244402540" />
+                              <turn xml:id="incip-turn-0000001836288018" staff="1" tstamp="1.500000" accidlower="s" place="above" form="upper"/>
+                              <slur xml:id="incip-slur-0000001005227489" startid="#note-0000001874128259" endid="#note-0000001482761149"/>
+                              <tie xml:id="incip-tie-0000001293078178" startid="#note-0000000095248915" endid="#note-0000000667988803"/>
+                              <tie xml:id="incip-tie-0000001947505740" startid="#note-0000000583914054" endid="#note-0000001229809612"/>
+                              <tie xml:id="incip-tie-0000000320783826" startid="#note-0000001930708253" endid="#note-0000000244402540"/>
                            </measure>
                            <measure xml:id="incip-measure-0000000413294993" n="4">
                               <staff xml:id="incip-staff-0000000633867998" n="1">
                                  <layer xml:id="incip-layer-0000001900553266" n="1">
                                     <beam xml:id="incip-beam-0000000926976184">
                                        <chord xml:id="incip-chord-0000001942941604" dur="8" stem.dir="up">
-                                          <note xml:id="incip-note-0000001842349150" oct="3" pname="a" />
-                                          <note xml:id="incip-note-0000000383202146" oct="4" pname="c" />
+                                          <note xml:id="incip-note-0000001842349150" oct="3" pname="a"/>
+                                          <note xml:id="incip-note-0000000383202146" oct="4" pname="c"/>
                                           <note xml:id="incip-note-0000000175010469" oct="4" pname="f">
-                                             <accid xml:id="incip-accid-0000001495839740" accid="n" />
+                                             <accid xml:id="incip-accid-0000001495839740" accid="n"/>
                                           </note>
                                        </chord>
                                        <chord xml:id="incip-chord-0000001752881110" dur="16" stem.dir="up">
-                                          <note xml:id="incip-note-0000002134938398" oct="3" pname="g" />
-                                          <note xml:id="incip-note-0000001492146224" oct="4" pname="c" />
-                                          <note xml:id="incip-note-0000000187557102" oct="4" pname="e" />
+                                          <note xml:id="incip-note-0000002134938398" oct="3" pname="g"/>
+                                          <note xml:id="incip-note-0000001492146224" oct="4" pname="c"/>
+                                          <note xml:id="incip-note-0000000187557102" oct="4" pname="e"/>
                                        </chord>
                                     </beam>
                                  </layer>
@@ -239,15 +243,15 @@
                               <staff xml:id="incip-staff-0000000651964495" n="2">
                                  <layer xml:id="incip-layer-0000001105700471" n="1">
                                     <beam xml:id="incip-beam-0000001331818606">
-                                       <note xml:id="incip-note-0000000653258361" dur="8" oct="3" pname="c" stem.dir="up" />
-                                       <note xml:id="incip-note-0000000972265187" dur="16" oct="2" pname="c" stem.dir="up" />
+                                       <note xml:id="incip-note-0000000653258361" dur="8" oct="3" pname="c" stem.dir="up"/>
+                                       <note xml:id="incip-note-0000000972265187" dur="16" oct="2" pname="c" stem.dir="up"/>
                                     </beam>
                                  </layer>
                               </staff>
-                              <slur xml:id="incip-slur-0000000848250496" startid="#note-0000000653258361" endid="#note-0000000972265187" />
-                              <slur xml:id="incip-slur-0000000605863314" startid="#chord-0000001894401048" endid="#note-0000001638268925" curvedir="above" />
-                              <tie xml:id="incip-tie-0000000696611186" startid="#note-0000000175010469" endid="#note-0000000187557102" curvedir="above" />
-                              <tie xml:id="incip-tie-0000002010843305" startid="#note-0000000383202146" endid="#note-0000001492146224" curvedir="above" />
+                              <slur xml:id="incip-slur-0000000848250496" startid="#note-0000000653258361" endid="#note-0000000972265187"/>
+                              <slur xml:id="incip-slur-0000000605863314" startid="#chord-0000001894401048" endid="#note-0000001638268925" curvedir="above"/>
+                              <tie xml:id="incip-tie-0000000696611186" startid="#note-0000000175010469" endid="#note-0000000187557102" curvedir="above"/>
+                              <tie xml:id="incip-tie-0000002010843305" startid="#note-0000000383202146" endid="#note-0000001492146224" curvedir="above"/>
                            </measure>
                         </section>
                      </score>
@@ -841,7 +845,6 @@
                               </beam>
                            </layer>
                         </staff>
-                        <slur xml:id="slur-0000000924272518" startid="#note-0000001028596397" endid="#note-0000000386621395"/>
                         <dynam xml:id="dynam-0000000302352967" place="below" staff="1" tstamp="3.000000" vgrp="225">cresc.</dynam>
                      </measure>
                      <measure xml:id="measure-0000000066248688" n="7" facs="#zone_01GERQW9M5TX6GKXEN46RBAJRM">
@@ -882,6 +885,7 @@
                         </staff>
                         <dynam xml:id="dynam-0000001063365078" place="below" staff="1" tstamp="1.000000" vgrp="225">sf</dynam>
                         <hairpin xml:id="hairpin-0000000749053992" staff="1" tstamp="1.750000" tstamp2="0m+4.0000" form="dim" place="below" vgrp="225"/>
+                        <slur xml:id="s3yr2mo1" staff="1" startid="#note-0000001028596397" endid="#note-0000000386621395"/>
                      </measure>
                      <measure xml:id="measure-0000000698431718" n="8" facs="#zone_01GERQW9M6N2C8MTVXSC2DVTH2">
                         <staff xml:id="staff-0000001631422429" n="1">
@@ -903,7 +907,6 @@
                                  <note xml:id="note-0000001456771754" dur="16" oct="2" pname="f" stem.dir="up"/>
                                  <rest xml:id="rest-0000000501810031" dur="16"/>
                                  <note xml:id="note-0000000752909248" dur="16" oct="1" pname="f" stem.dir="up">
-                                    <artic xml:id="artic-0000001172083012" artic="stacc"/>
                                  </note>
                               </beam>
                               <rest xml:id="rest-0000000331688753" dur="16"/>
@@ -1293,7 +1296,7 @@
                               </beam>
                            </layer>
                         </staff>
-                        <dynam xml:id="dynam-0000001721048318" place="below" staff="1" tstamp="1.000000" vgrp="226">pp</dynam>
+                        <dynam xml:id="dynam-0000001721048318" place="between" staff="1 2" tstamp="1.000000" vgrp="226">pp</dynam>
                         <slur xml:id="slur-0000000218650724" startid="#note-0000000217884728" endid="#note-0000000875652991"/>
                      </measure>
                      <sb xml:id="sb-0000001923868331" />
@@ -3376,7 +3379,7 @@
                         <staff xml:id="staff-0000000127864288" n="2">
                            <layer xml:id="layer-0000001531441416" n="1">
                               <beam xml:id="beam-0000001344369417">
-                                 <note xml:id="note-0000001141341432" dur="16" oct="2" pname="f" stem.dir="up"/>
+                                 <note xml:id="note-0000001141341432" dur="16" oct="2" pname="f" stem.dir="down"/>
                                  <note xml:id="note-0000001201512620" dur="16" oct="4" pname="c" stem.dir="down"/>
                                  <note xml:id="note-0000000989776516" dur="16" oct="3" pname="a" stem.dir="down"/>
                                  <note xml:id="note-0000000765574750" dur="16" oct="3" pname="f" stem.dir="down"/>
@@ -5073,8 +5076,8 @@
                         <tie xml:id="tie-0000000259796919" startid="#note-0000000359952474" endid="#note-0000000812015900"/>
                         <tie xml:id="tie-0000000370775225" startid="#note-0000001473757789" endid="#note-0000001769146628"/>
                         <slur xml:id="slur-0000001847258115" startid="#note-0000000747455174" endid="#note-0000001637459972"/>
-                        <tie xml:id="tie-0000001396808875" startid="#note-0000000918798524" endid="#note-0000001630672314"/>
                         <slur xml:id="slur-0000002023016768" startid="#note-0000000523278384" endid="#note-0000002142053695" curvedir="below"/>
+                        <tie xml:id="thblomw1" staff="2" startid="#note-0000000918798524" endid="#note-0000001630672314"/>
                      </measure>
                      <measure xml:id="measure-0000000786813099" n="91" facs="#zone_01GERQW9MQZJ2RNCHAY5J14GFY">
                         <staff xml:id="staff-0000000463569807" n="1">
@@ -5134,7 +5137,6 @@
                         <slur xml:id="slur-0000001604148555" startid="#note-0000000812015900" endid="#note-0000001609478820"/>
                         <tie xml:id="tie-0000001298793752" startid="#note-0000000259840129" endid="#note-0000001802801756"/>
                         <slur xml:id="slur-0000000842337569" startid="#note-0000001494974341" endid="#note-0000001415745431"/>
-                        <tie xml:id="tie-0000001839370938" startid="#note-0000000918798524" endid="#note-0000001630672314"/>
                         <tie xml:id="tie-0000001906679241" startid="#note-0000000213239091" endid="#note-0000000128056619"/>
                         <slur xml:id="slur-0000000902699383" startid="#note-0000000468981239" endid="#note-0000000908014947" curvedir="below"/>
                      </measure>
@@ -5614,7 +5616,7 @@
                               </chord>
                            </layer>
                         </staff>
-                        <tie xml:id="tie-0000001587987276" tstamp="0.500000" endid="#note-0000000910834080" curvedir="above"/>
+                        <tie xml:id="tie-0000001587987276" tstamp="0.500000" endid="#note-0000000910834080" curvedir="above" staff="1"/>
                         <tie xml:id="tie-0000000375382816" startid="#note-0000002045206650" tstamp2="0m+0.5000" curvedir="above"/>
                         <tie xml:id="tie-0000001899517273" startid="#note-0000001164912668" tstamp2="0m+0.5000" curvedir="above"/>
                         <tie xml:id="tie-0000000694911009" startid="#note-0000000078801377" tstamp2="0m+0.5000" curvedir="below"/>
@@ -5750,13 +5752,13 @@
                         <staff xml:id="staff-0000002126550478" n="2">
                            <layer xml:id="layer-0000000363546725" n="1">
                               <beam xml:id="beam-0000001580822467">
-                                 <chord xml:id="chord-0000001114254485" dur="8" stem.dir="up">
+                                 <chord xml:id="chord-0000001114254485" dur="8" stem.dir="down">
                                     <note xml:id="note-0000001199577131" oct="3" pname="f">
                                        <accid xml:id="accid-0000000716362681" accid="n"/>
                                     </note>
                                     <note xml:id="note-0000001217727555" oct="4" pname="d"/>
                                  </chord>
-                                 <chord xml:id="chord-0000001162959128" dur="32" stem.dir="up">
+                                 <chord xml:id="chord-0000001162959128" dur="32" stem.dir="down">
                                     <note xml:id="note-0000000827860975" oct="3" pname="e">
                                        <accid xml:id="accid-0000000312857912" accid="n"/>
                                     </note>
@@ -5816,7 +5818,7 @@
                                  <note xml:id="note-0000001014472193" dur="32" oct="3" pname="e" stem.dir="down" accid.ges="f"/>
                               </beam>
                               <beam xml:id="beam-0000000858923141">
-                                 <note xml:id="note-0000002000925261" dur="32" oct="3" pname="f" stem.dir="up"/>
+                                 <note xml:id="note-0000002000925261" dur="32" oct="3" pname="f" stem.dir="down"/>
                                  <note xml:id="note-0000000326677159" dur="32" oct="3" pname="e" stem.dir="down" accid.ges="f"/>
                                  <note xml:id="note-0000002104433254" dur="32" oct="3" pname="f" stem.dir="down"/>
                                  <note xml:id="note-0000000536155653" dur="32" oct="3" pname="d" stem.dir="down"/>
@@ -6792,7 +6794,7 @@
                         <staff xml:id="staff-0000000226653380" n="2">
                            <layer xml:id="layer-0000001874851529" n="1">
                               <beam xml:id="beam-0000000602095472">
-                                 <note xml:id="note-0000000475653240" dur="32" oct="2" pname="d" stem.dir="up">
+                                 <note xml:id="note-0000000475653240" dur="32" oct="2" pname="d" stem.dir="down">
                                     <accid xml:id="accid-0000001369870546" accid="f"/>
                                  </note>
                                  <note xml:id="note-0000001424450527" dur="32" oct="2" pname="a" stem.dir="down">
