@@ -6080,7 +6080,7 @@
                               </beam>
                            </layer>
                         </staff>
-                        <dynam xml:id="dynam-0000000835034988" place="above" staff="2" tstamp="2.000000" vgrp="80">cresc.</dynam>
+                        <dynam xml:id="dynam-0000000835034988" place="between" staff="1 2" tstamp="2.2" vgrp="80">cresc.</dynam>
                      </measure>
                      <measure xml:id="measure-0000000050764085" n="108" facs="#zone_01GERQW9MSB23HJPDWJDFQZ3ES">
                         <staff xml:id="staff-0000001043858035" n="1">
@@ -6131,8 +6131,8 @@
                            </layer>
                         </staff>
                         <slur xml:id="slur-0000001197104983" startid="#chord-0000000992357655" endid="#note-0000000742919329" curvedir="above"/>
-                        <dynam xml:id="dynam-0000000101272543" place="above" staff="2" tstamp="1.000000" vgrp="80">sf</dynam>
-                        <hairpin xml:id="hairpin-0000001972463823" staff="2" tstamp="1.500000" tstamp2="0m+4.0000" form="dim" place="above" vgrp="80"/>
+                        <dynam xml:id="dynam-0000000101272543" place="between" staff="1 2" tstamp="1.000000" vgrp="80">sf</dynam>
+                        <hairpin xml:id="hairpin-0000001972463823" staff="1 2" tstamp="1.25" tstamp2="0m+4.0000" form="dim" place="between" vgrp="80"/>
                      </measure>
                      <sb xml:id="sb-0000001328081902" />
                      <measure xml:id="measure-0000002013451669" n="109" facs="#zone_01GERQW9MS461SMPS13SGG4AZE">
@@ -6177,7 +6177,7 @@
                            </layer>
                         </staff>
                         <slur xml:id="slur-0000001879279226" startid="#note-0000000730801021" endid="#note-0000000736489535"/>
-                        <dynam xml:id="dynam-0000000185399562" place="above" staff="2" tstamp="1.000000" vgrp="80">p</dynam>
+                        <dynam xml:id="dynam-0000000185399562" place="between" staff="1 2" tstamp="1.000000" vgrp="80">p</dynam>
                         <slur xml:id="slur-0000000413841581" startid="#note-0000000320419466" endid="#note-0000000755358418" curvedir="above"/>
                         <slur xml:id="slur-0000000413841582" startid="#note-0000001533093909" endid="#note-0000001269922088" curvedir="above"/>
                      </measure>
@@ -6426,7 +6426,7 @@
                               </beam>
                            </layer>
                         </staff>
-                        <dynam xml:id="dynam-0000001552131132" place="below" staff="1" tstamp="1.500000" tstamp2="1m+4.0000" extender="true" vgrp="80">cresc.</dynam>
+                        <dynam xml:id="dynam-0000001552131132" place="between" staff="1 2" tstamp="1.500000" tstamp2="1m+4.0000" extender="true" vgrp="80">cresc.</dynam>
                         <slur xml:id="slur-0000001249486791" startid="#note-0000000961567438" endid="#note-0000001429514263"/>
                      </measure>
                      <sb xml:id="sb-0000001678127619" />
@@ -6516,7 +6516,7 @@
                               </chord>
                            </layer>
                         </staff>
-                        <dynam xml:id="dynam-0000001759489480" place="below" staff="1" tstamp="1.000000" vgrp="80">decresc.</dynam>
+                        <dynam xml:id="dynam-0000001759489480" place="between" staff="1 2" tstamp="1.000000" vgrp="80">decresc.</dynam>
                      </measure>
                      <measure xml:id="measure-0000001946659252" n="117" facs="#zone_01GERQW9MV63J97BW94ZFXA55K">
                         <staff xml:id="staff-0000000584519045" n="1">
@@ -6537,7 +6537,7 @@
                               <clef xml:id="clef-0000000747473702" shape="F" line="4"/>
                            </layer>
                         </staff>
-                        <dynam xml:id="dynam-0000001421387937" place="below" staff="1" tstamp="1.000000" vgrp="80">p</dynam>
+                        <dynam xml:id="dynam-0000001421387937" place="between" staff="1 2" tstamp="1.000000" vgrp="80">p</dynam>
                      </measure>
                      <measure xml:id="measure-0000000071227456" n="118" facs="#zone_01GERQW9MV6G1DKH5GQPVHNZZE">
                         <staff xml:id="staff-0000001841865450" n="1">
