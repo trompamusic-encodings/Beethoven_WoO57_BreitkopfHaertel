@@ -26,7 +26,7 @@
                <name xml:id="name-0000000470036055">Verovio</name>
                <p xml:id="p-0000001451122719">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="a3fxtl3" startdate="2023-03-03T10:27:05" version="0.8.4" enddate="2023-03-03T10:55:20">
+            <application xml:id="a3fxtl3" startdate="2023-03-03T10:27:05" version="0.8.4" enddate="2023-03-03T11:16:20">
                <name xml:id="n61673a">mei-friend</name>
                <p xml:id="p9raws9">First edit by mei-friend 0.8.4, 27 Feb 2023.</p>
             </application>
@@ -5695,6 +5695,7 @@
                            </layer>
                         </staff>
                         <slur xml:id="slur-0000001790698676" startid="#note-0000000835560860" endid="#note-0000001515535739"/>
+                        <dynam xml:id="drnfw4q2" staff="1 2" tstamp="3" place="between" vgrp="1">cresc.</dynam>
                      </measure>
                      <measure xml:id="measure-0000001396184538" n="100" facs="#zone_01GERQW9MR50D36KBD3YDYFHSH">
                         <staff xml:id="staff-0000001176930288" n="1">
@@ -5784,8 +5785,8 @@
                               </beam>
                            </layer>
                         </staff>
-                        <dynam xml:id="dynam-0000000572660596" place="below" staff="1" tstamp="1.000000" vgrp="80">fp</dynam>
                         <slur xml:id="slur-0000000901157037" startid="#note-0000000773209062" endid="#note-0000000027109819" curvedir="above"/>
+                        <dynam xml:id="dhz0ajc1" staff="1 2" tstamp="1" place="between" vgrp="1">sfp</dynam>
                      </measure>
                      <scoreDef xml:id="scoredef-0000000275690908" key.sig="1f" />
                      <measure xml:id="measure-0000000894704872" n="102" facs="#zone_01GERQW9MR5DWCNBPT6JC1VWBE">
