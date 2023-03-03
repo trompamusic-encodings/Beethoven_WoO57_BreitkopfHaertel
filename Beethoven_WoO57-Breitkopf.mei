@@ -4049,7 +4049,7 @@
                                  <note xml:id="note-0000001310717632" dur="16" oct="4" pname="a" stem.dir="up"/>
                               </beam>
                               <space xml:id="space-0000002081974715" dur="8"/>
-                              <note xml:id="note-0000001778245844" dur="16" oct="4" pname="f" stem.dir="down"/>
+                              <note xml:id="note-0000001778245844" dur="8" oct="4" pname="f" stem.dir="down"/>
                               <space xml:id="space-0000002106893879" dur="8"/>
                            </layer>
                         </staff>
@@ -4163,7 +4163,7 @@
                               </beam>
                            </layer>
                         </staff>
-                        <turn xml:id="turn-0000002108383377" staff="1" tstamp="1.500000" accidlower="s" form="upper"/>
+                        <turn xml:id="turn-0000002108383377" staff="1" tstamp="1.500000" accidlower="s" form="upper" delayed="true"/>
                         <slur xml:id="slur-0000001493771068" startid="#note-0000001302154750" endid="#note-0000000013437908" curvedir="below"/>
                         <tie xml:id="tie-0000000482293845" startid="#note-0000000862497585" endid="#note-0000000309036673" curvedir="below"/>
                         <dynam xml:id="dynam-0000001018591020" place="below" staff="1" tstamp="1.000000" vgrp="120">cresc.</dynam>
