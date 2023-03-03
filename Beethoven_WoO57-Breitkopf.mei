@@ -5788,7 +5788,7 @@
                         <slur xml:id="slur-0000000901157037" startid="#note-0000000773209062" endid="#note-0000000027109819" curvedir="above"/>
                         <dynam xml:id="dhz0ajc1" staff="1 2" tstamp="1" place="between" vgrp="1">sfp</dynam>
                      </measure>
-                     <scoreDef xml:id="scoredef-0000000275690908" key.sig="1f" />
+                     <scoreDef xml:id="scoredef-0000000275690908" key.sig="1f"/>
                      <measure xml:id="measure-0000000894704872" n="102" facs="#zone_01GERQW9MR5DWCNBPT6JC1VWBE">
                         <staff xml:id="staff-0000001791229315" n="1">
                            <layer xml:id="layer-0000001765333559" n="1">
@@ -5797,8 +5797,8 @@
                                  <note xml:id="note-0000001352699303" dur="8" oct="4" pname="b" stem.dir="down" accid.ges="f"/>
                               </beam>
                               <beam xml:id="beam-0000000728904569">
-                                 <note xml:id="note-0000001452368695" dur="16" oct="4" pname="a" stem.dir="up"/>
-                                 <note xml:id="note-0000001521871900" dur="16" oct="4" pname="b" stem.dir="up" accid.ges="f"/>
+                                 <note xml:id="note-0000001452368695" dots="1" dur="16" oct="4" pname="a" stem.dir="up"/>
+                                 <note xml:id="note-0000001521871900" dur="32" oct="4" pname="b" stem.dir="up" accid.ges="f"/>
                               </beam>
                            </layer>
                         </staff>
@@ -5879,7 +5879,7 @@
                                  <note xml:id="note-0000000696419327" dur="8" oct="4" pname="g" stem.dir="up"/>
                                  <note xml:id="note-0000000933752739" dots="1" dur="16" oct="4" pname="g" stem.dir="up"/>
                                  <note xml:id="note-0000002063051468" dur="32" oct="4" pname="a" stem.dir="up"/>
-                                 <note xml:id="note-0000000435058214" dur="16" oct="5" pname="c" grace="unacc" stem.dir="up"/>
+                                 <note xml:id="note-0000000435058214" dur="8" oct="5" pname="c" grace="unacc" stem.dir="up"/>
                                  <note xml:id="note-0000001989068310" dots="1" dur="16" oct="4" pname="b" stem.dir="up" accid.ges="f"/>
                                  <note xml:id="note-0000000527164783" dur="32" oct="4" pname="g" stem.dir="up"/>
                               </beam>
@@ -5913,8 +5913,8 @@
                               </beam>
                            </layer>
                         </staff>
-                        <dynam xml:id="dynam-0000000669687820" place="above" staff="2" tstamp="1.000000" vgrp="80">cresc.</dynam>
-                        <turn xml:id="turn-0000001919275744" staff="1" tstamp="1.500000" accidlower="s" form="upper"/>
+                        <dynam xml:id="dynam-0000000669687820" place="between" staff="1 2" tstamp="1.000000" vgrp="80">cresc.</dynam>
+                        <turn xml:id="turn-0000001919275744" delayed="true" staff="1" tstamp="1.500000" accidlower="s" form="upper"/>
                         <slur xml:id="slur-0000000586042380" startid="#note-0000000435058214" endid="#note-0000001989068310" curvedir="below"/>
                         <slur xml:id="slur-0000002068167875" startid="#note-0000000696419327" endid="#note-0000000527164783"/>
                      </measure>
@@ -5972,7 +5972,7 @@
                         </staff>
                         <slur xml:id="slur-0000001367317365" startid="#chord-0000000706539204" endid="#chord-0000000221190959"/>
                         <slur xml:id="slur-0000001045214329" startid="#note-0000000781351334" endid="#note-0000000509108944"/>
-                        <dynam xml:id="dynam-0000000669687821" place="above" staff="2" tstamp="1.000000" vgrp="80">p</dynam>
+                        <dynam xml:id="dynam-0000000669687821" place="between" staff="1 2" tstamp="1.000000" vgrp="80">p</dynam>
                      </measure>
                      <sb xml:id="sb-0000000248455800" />
                      <measure xml:id="measure-0000000465438385" n="106" facs="#zone_01GERQW9MSA1YXEV0JZZ7NQYHZ">
