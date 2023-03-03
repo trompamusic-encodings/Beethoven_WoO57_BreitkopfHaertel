@@ -26,7 +26,7 @@
                <name xml:id="name-0000000470036055">Verovio</name>
                <p xml:id="p-0000001451122719">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="a3fxtl3" startdate="2023-03-03T10:27:05" version="0.8.4" enddate="2023-03-03T12:00:24">
+            <application xml:id="a3fxtl3" startdate="2023-03-03T10:27:05" version="0.8.4" enddate="2023-03-03T12:03:42">
                <name xml:id="n61673a">mei-friend</name>
                <p xml:id="p9raws9">First edit by mei-friend 0.8.4, 27 Feb 2023.</p>
             </application>
@@ -11608,7 +11608,7 @@
                               </chord>
                            </layer>
                         </staff>
-                        <slur xml:id="slur-0000000200189200" startid="#note-0000001302210114" endid="#note-0000001951725881"/>
+                        <slur xml:id="slur-0000000200189200" startid="#note-0000001302210114" endid="#note-0000001951725881" curvedir="above"/>
                      </measure>
                      <measure xml:id="measure-0000002128556091" n="195" facs="#zone_01GERQW9N6DDK4J07WXPQ61YBN">
                         <staff xml:id="staff-0000000510948199" n="1">
@@ -11661,8 +11661,8 @@
                               </chord>
                            </layer>
                         </staff>
-                        <slur xml:id="slur-0000001706289824" startid="#note-0000000320812752" endid="#note-0000001461363202"/>
-                        <dynam xml:id="dynam-0000001709344574" place="below" staff="1" tstamp="3.000000" vgrp="80">descresc.</dynam>
+                        <slur xml:id="slur-0000001706289824" startid="#note-0000000320812752" endid="#note-0000001461363202" curvedir="above"/>
+                        <dynam xml:id="dynam-0000001709344574" place="between" staff="1 2" tstamp="3.25" vgrp="80">decresc.</dynam>
                      </measure>
                      <measure xml:id="measure-0000000652419836" n="196" facs="#zone_01GERQW9N6K5VCNXB2Y9GJK4RM">
                         <staff xml:id="staff-0000001484581125" n="1">
@@ -11707,7 +11707,7 @@
                               </chord>
                            </layer>
                         </staff>
-                        <slur xml:id="slur-0000000827584941" startid="#note-0000000195797735" endid="#note-0000001274685280"/>
+                        <slur xml:id="slur-0000000827584941" startid="#note-0000000195797735" endid="#note-0000001274685280" curvedir="above"/>
                      </measure>
                      <measure xml:id="measure-0000000371134072" n="197" facs="#zone_01GERQW9N6J54RJ219YBE4NS6J">
                         <staff xml:id="staff-0000000414692929" n="1">
@@ -11744,6 +11744,7 @@
                               </chord>
                            </layer>
                         </staff>
+                        <slur xml:id="su46km41" staff="1" startid="#note-0000000665403266" endid="#note-0000001788593803"/>
                      </measure>
                      <measure xml:id="measure-0000001888792542" n="198" facs="#zone_01GERQW9N6NT603FF2CRSQTP0N">
                         <staff xml:id="staff-0000000325554971" n="1">
@@ -11775,8 +11776,8 @@
                            </layer>
                         </staff>
                         <slur xml:id="slur-0000001128435796" startid="#note-0000001192336715" endid="#note-0000001075199221" curvedir="above"/>
-                        <slur xml:id="slur-0000001128435546" startid="#note-0000001508698546" endid="#note-0000001374145584"/>
-                        <dynam xml:id="dynam-0000000486475331" place="below" staff="1" tstamp="3.000000" vgrp="80">f</dynam>
+                        <slur xml:id="slur-0000001128435546" startid="#note-0000001508698546" endid="#note-0000001374145584" curvedir="below"/>
+                        <dynam xml:id="dynam-0000000486475331" place="between" staff="1 2" tstamp="3.000000" vgrp="80">f</dynam>
                      </measure>
                      <measure xml:id="measure-0000002030463308" n="199" facs="#zone_01GERQW9N6Q2DQF36BXW1QG8DM">
                         <staff xml:id="staff-0000000660390015" n="1">
@@ -11795,7 +11796,7 @@
                                  <note xml:id="note-0000001193227610" dur="8" oct="4" pname="a" stem.dir="down"/>
                                  <note xml:id="note-0000001374145584" dur="16" oct="5" pname="c" stem.dir="down"/>
                               </beam>
-                              <rest xml:id="rest-0000001945901489" dur="16"/>
+                              <rest xml:id="rest-0000001945901489" dur="16" oloc="4" ploc="b"/>
                               <chord xml:id="chord-0000001659825041" dur="8" stem.dir="down">
                                  <note xml:id="note-0000000866889557" oct="5" pname="e"/>
                                  <note xml:id="note-0000001915961795" oct="5" pname="g"/>
@@ -11814,8 +11815,8 @@
                               </chord>
                            </layer>
                         </staff>
-                        <slur xml:id="slur-0000000913167937" startid="#note-0000001586134187" endid="#note-0000002006782049"/>
-                        <dynam xml:id="dynam-0000001314730624" place="below" staff="1" tstamp="3.000000" vgrp="80">p</dynam>
+                        <slur xml:id="slur-0000000913167937" startid="#note-0000001586134187" endid="#note-0000002006782049" curvedir="above"/>
+                        <dynam xml:id="dynam-0000001314730624" place="between" staff="1 2" tstamp="3.000000" vgrp="80">p</dynam>
                      </measure>
                      <sb xml:id="sb-0000001780626039" />
                      <measure xml:id="measure-0000001225690450" n="200" facs="#zone_01GERQW9N6YWD05R090FXABJTK">
@@ -11850,9 +11851,9 @@
                               </chord>
                            </layer>
                         </staff>
-                        <slur xml:id="slur-0000001385938889" startid="#note-0000001524399765" endid="#note-0000002064675200"/>
-                        <slur xml:id="slur-0000001936767913" startid="#note-0000001096956053" endid="#note-0000000982297606"/>
-                        <dynam xml:id="dynam-0000001525058107" place="below" staff="1" tstamp="3.000000" vgrp="80">f</dynam>
+                        <slur xml:id="slur-0000001385938889" startid="#note-0000001524399765" endid="#note-0000002064675200" curvedir="above"/>
+                        <slur xml:id="slur-0000001936767913" startid="#note-0000001096956053" endid="#note-0000000982297606" curvedir="below"/>
+                        <dynam xml:id="dynam-0000001525058107" place="between" staff="1 2" tstamp="3.000000" vgrp="80">f</dynam>
                      </measure>
                      <measure xml:id="measure-0000000907690288" n="201" facs="#zone_01GERQW9N7WR7FK4X3PNZXGAZG">
                         <staff xml:id="staff-0000000539446574" n="1">
@@ -11890,8 +11891,8 @@
                               </chord>
                            </layer>
                         </staff>
-                        <slur xml:id="slur-0000001132717385" startid="#note-0000001277384103" endid="#note-0000001458771339"/>
-                        <dynam xml:id="dynam-0000001944918678" place="below" staff="1" tstamp="3.000000" vgrp="80">p</dynam>
+                        <slur xml:id="slur-0000001132717385" startid="#note-0000001277384103" endid="#note-0000001458771339" curvedir="below"/>
+                        <dynam xml:id="dynam-0000001944918678" place="between" staff="1 2" tstamp="3.000000" vgrp="80">p</dynam>
                      </measure>
                      <measure xml:id="measure-0000001769069553" n="202" facs="#zone_01GERQW9N7Y1HJMYZMCFKE8051">
                         <staff xml:id="staff-0000000059876336" n="1">
@@ -11944,7 +11945,7 @@
                               </beam>
                            </layer>
                         </staff>
-                        <dynam xml:id="dynam-0000000076509419" place="below" staff="1" tstamp="1.000000" tstamp2="1m+4.0000" extender="true" vgrp="80">cresc.</dynam>
+                        <dynam xml:id="dynam-0000000076509419" place="between" staff="1 2" tstamp="1.000000" tstamp2="1m+4.0000" extender="true" vgrp="80">cresc.</dynam>
                      </measure>
                      <measure xml:id="measure-0000000781356563" n="203" facs="#zone_01GERQW9N7TY0PJ69Y177BW7SQ">
                         <staff xml:id="staff-0000001981587161" n="1">
@@ -12030,8 +12031,8 @@
                               <rest xml:id="rest-0000000414958497" dur="16"/>
                            </layer>
                         </staff>
-                        <pedal xml:id="pedal-0000001001535901" staff="2" tstamp="1.000000" dir="down" place="below" vgrp="200"/>
-                        <dynam xml:id="dynam-0000000837062921" place="below" staff="1" tstamp="1.000000" vgrp="80">p</dynam>
+                        <dynam xml:id="dynam-0000000837062921" place="between" staff="1 2" tstamp="1.000000" vgrp="80">p</dynam>
+                        <pedal xml:id="pzjtql8" staff="2" startid="#note-0000000257098127" dir="down" vgrp="200"/>
                      </measure>
                      <measure xml:id="measure-0000002018594836" right="end" n="205" facs="#zone_01GERQW9N7H3XHEKMRFSR2DJE1">
                         <staff xml:id="staff-0000002008209876" n="1">
@@ -12054,7 +12055,7 @@
                               <rest xml:id="rest-0000001674616044" dur="8"/>
                            </layer>
                         </staff>
-                        <pedal xml:id="pedal-0000000186763379" staff="2" tstamp="1.500000" dir="up" place="below" vgrp="200"/>
+                        <pedal xml:id="pedal-0000000186763379" staff="2" tstamp="1.2500000" dir="up" place="below" vgrp="200"/>
                      </measure>
                   </section>
                </section>
