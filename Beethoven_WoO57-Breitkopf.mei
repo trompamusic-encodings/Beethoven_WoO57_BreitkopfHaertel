@@ -515,7 +515,7 @@
 		<body xml:id="body-WoO57">
          <mdiv xml:id="Andante-favori">
             <score xml:id="score-0000001678381647">
-               <scoreDef xml:id="scoredef-0000001236002984" midi.bpm="60.000000" key.mode="major" key.sig="1f" meter.count="3" meter.unit="8">
+               <scoreDef xml:id="scoredef-0000001236002984" key.mode="major" key.sig="1f" meter.count="3" meter.unit="8">
                   <pgHead xml:id="pghead-0000002045266725">
                      <rend xml:id="rend-0000000423485031" halign="left" valign="middle" fontsize="100.00%">Beethovens Werke.<lb xml:id="lb-0000000931946803" />
                      </rend>
@@ -580,7 +580,7 @@
                               </chord>
                            </layer>
                         </staff>
-                        <tempo xml:id="tempo-0000001168788558" place="above" staff="1" tstamp="1.000000" midi.bpm="92.000000">Andante grazioso con moto.</tempo>
+                        <tempo xml:id="tempo-0000001168788558" place="above" staff="1" tstamp="1.000000" mm="92" mm.unit="8">Andante grazioso con moto.</tempo>
                         <slur xml:id="slur-0000001483290253" startid="#note-0000001642495417" endid="#note-0000001752482544"/>
                         <dynam xml:id="dynam-0000001641100966" place="below" staff="1" tstamp="1.000000" vgrp="80">p</dynam>
                         <dynam xml:id="dynam-0000001641100967" place="below" staff="1" tstamp="1.500000" vgrp="80">dolce</dynam>
