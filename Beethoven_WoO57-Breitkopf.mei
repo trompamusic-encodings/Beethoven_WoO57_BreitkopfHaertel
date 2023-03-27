@@ -5009,10 +5009,10 @@
                               <note xml:id="note-0000000661929761" dur="8" oct="1" pname="b" stem.dir="down" accid.ges="f"/>
                            </layer>
                         </staff>
-                        <tie xml:id="tie-0000000062212446" endid="#note-0000001053555178" tstamp="0m+0.0000" staff="1" curvedir="below"/>
-                        <tie xml:id="tie-0000000062212447" endid="#note-0000000133713420" tstamp="0m+0.0000" staff="1" curvedir="above"/>
-                        <tie xml:id="tie-0000000062212448" endid="#note-0000000648329014" tstamp="0m+0.0000" staff="1" curvedir="above"/>
-                        <tie xml:id="tie-0000000062212449" endid="#note-0000002027457235" tstamp="0m+0.0000" staff="1" curvedir="above"/>
+                        <tie xml:id="tie-0000000062212446" endid="#note-0000001053555178" tstamp="0.0000" staff="1" curvedir="below"/>
+                        <tie xml:id="tie-0000000062212447" endid="#note-0000000133713420" tstamp="0.0000" staff="1" curvedir="above"/>
+                        <tie xml:id="tie-0000000062212448" endid="#note-0000000648329014" tstamp="0.0000" staff="1" curvedir="above"/>
+                        <tie xml:id="tie-0000000062212449" endid="#note-0000002027457235" tstamp="0.0000" staff="1" curvedir="above"/>
                         <slur xml:id="slur-0000000620249536" startid="#chord-0000000529912235" endid="#chord-0000001719919223" curvedir="above"/>
                         <slur xml:id="slur-0000001102085767" startid="#note-0000001644869779" endid="#note-0000001021905027"/>
                         <hairpin xml:id="hairpin-0000000598096414" staff="2" tstamp="0.500000" tstamp2="0m+2.5000" form="dim" place="above" vgrp="120"/>
@@ -5617,9 +5617,9 @@
                            </layer>
                         </staff>
                         <tie xml:id="tie-0000001587987276" tstamp="0.500000" endid="#note-0000000910834080" curvedir="above" staff="1"/>
-                        <tie xml:id="tie-0000000375382816" endid="#note-0000002045206650" tstamp="0m+0.5000" curvedir="above" staff="1"/>
-                        <tie xml:id="tie-0000001899517273" endid="#note-0000001164912668" tstamp="0m+0.5000" curvedir="above" staff="1"/>
-                        <tie xml:id="tie-0000000694911009" endid="#note-0000000078801377" tstamp="0m+0.5000" curvedir="below" staff="1"/>
+                        <tie xml:id="tie-0000000375382816" endid="#note-0000002045206650" tstamp="0.5000" curvedir="above" staff="1"/>
+                        <tie xml:id="tie-0000001899517273" endid="#note-0000001164912668" tstamp="0.5000" curvedir="above" staff="1"/>
+                        <tie xml:id="tie-0000000694911009" endid="#note-0000000078801377" tstamp="0.5000" curvedir="below" staff="1"/>
                         <slur xml:id="slur-0000000641042945" startid="#note-0000000584663004" endid="#note-0000000083319616"/>
                         <slur xml:id="slur-0000001040706374" startid="#chord-0000000533898220" endid="#chord-0000001789317247" curvedir="above"/>
                         <dynam xml:id="dynam-0000001155642628" place="below" staff="1" tstamp="3.000000" vgrp="80">p</dynam>
