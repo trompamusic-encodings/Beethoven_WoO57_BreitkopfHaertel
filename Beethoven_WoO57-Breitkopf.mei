@@ -583,8 +583,7 @@
                         </staff>
                         <tempo xml:id="tempo-0000001168788558" place="above" staff="1" tstamp="1.000000" mm="92" mm.unit="8">Andante grazioso con moto.</tempo>
                         <slur xml:id="slur-0000001483290253" startid="#note-0000001642495417" endid="#note-0000001752482544"/>
-                        <dynam xml:id="dynam-0000001641100966" place="below" staff="1" tstamp="1.000000" vgrp="80">p</dynam>
-                        <dynam xml:id="dynam-0000001641100967" place="below" staff="1" tstamp="1.500000" vgrp="80">dolce</dynam>
+                        <dynam xml:id="dynam-0000001641100966" place="below" staff="1" tstamp="1.000000" vgrp="80">p dolce</dynam>
                         <slur xml:id="slur-0000002083622311" startid="#chord-0000001193142050" endid="#chord-0000001920991321"/>
                      </measure>
                      <measure xml:id="measure-0000001901096994" n="1" facs="#zone_01GERQW9M34AM2QVX8ZHZR19MB">
