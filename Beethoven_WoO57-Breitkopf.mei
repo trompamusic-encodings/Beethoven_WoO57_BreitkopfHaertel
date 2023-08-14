@@ -26,7 +26,7 @@
                <name xml:id="name-0000000470036055">Verovio</name>
                <p xml:id="p-0000001451122719">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="a3fxtl3" startdate="2023-03-03T10:27:05" version="0.8.4" enddate="2023-03-03T12:03:42">
+            <application xml:id="a3fxtl3" startdate="2023-03-03T10:27:05" version="0.10.2" enddate="2023-08-14T16:36:33">
                <name xml:id="n61673a">mei-friend</name>
                <p xml:id="p9raws9">First edit by mei-friend 0.8.4, 27 Feb 2023.</p>
             </application>
@@ -558,7 +558,7 @@
                   </staffGrp>
                </scoreDef>
                <section xml:id="WoO57">
-                  <expansion plist="#A #B #B1 #B #B2  #C #C1 #C #C2 #D" xml:id="expansion-default" />
+                  <expansion plist="#A #B #B1 #B #B2 #C #C1 #C #C2 #D" xml:id="expansion-default" />
                   <expansion plist="#A #B #B2 #C #C2 #D" xml:id="expansion-minimal" />
                   <section xml:id="A">
                      <measure xml:id="measure-0000000970616045" metcon="false" n="0" facs="#zone_01GERQW9M36CZ90466V1A10RTD">
@@ -4049,7 +4049,6 @@
                               </beam>
                               <space xml:id="space-0000002081974715" dur="8"/>
                               <note xml:id="note-0000001778245844" dur="8" oct="4" pname="f" stem.dir="down"/>
-                              <space xml:id="space-0000002106893879" dur="8"/>
                            </layer>
                         </staff>
                         <staff xml:id="staff-0000000578553711" n="2">
@@ -6822,7 +6821,7 @@
                         </staff>
                         <dynam xml:id="dynam-0000001567816176" place="between" staff="1 2" tstamp="1.500000" vgrp="80">cresc.</dynam>
                         <slur xml:id="slur-0000000392624063" startid="#chord-0000002029572373" endid="#chord-0000000773968616" curvedir="above"/>
-                        <slur xml:id="s6p5mwy1" staff="1" startid="#note-0000000121154578" endid="#note-0000001762863257" curvedir="below"/>
+                        <slur xml:id="s6p5mwy1" staff="1" startid="#note-0000000121154578" endid="#note-0000001762863257" curvedir="above"/>
                      </measure>
                      <measure xml:id="measure-0000001805749391" n="123" facs="#zone_01GERQW9MWX4R10MRJWSVGF3BN">
                         <staff xml:id="staff-0000000317722956" n="1">
