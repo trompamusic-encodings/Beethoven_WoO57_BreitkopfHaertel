@@ -20,7 +20,7 @@
     <music>
         <facsimile>
             <surface xml:id="surface_01GERQW9M2NQSZ8M08H6X21GGS" n="1" ulx="0" uly="0" lrx="1829" lry="2406">
-                <graphic xml:id="graphic_01GERQW9M2Z4WVDVCKSTEWC9QH" target="IMSLP58150-PMLP30951-Beethoven_Werke_Breitkopf_Serie_18_No_192_WoO_57-1.jpg" width="1830" height="2407"/>
+                <graphic xml:id="graphic_01GERQW9M2Z4WVDVCKSTEWC9QH" target="img/IMSLP58150-PMLP30951-Beethoven_Werke_Breitkopf_Serie_18_No_192_WoO_57-1.jpg" width="1830" height="2407"/>
                 <zone xml:id="zone_01GERQW9M36CZ90466V1A10RTD" type="measure" ulx="204" uly="485" lrx="517" lry="861"/>
                 <zone xml:id="zone_01GERQW9M34AM2QVX8ZHZR19MB" type="measure" ulx="469" uly="487" lrx="736" lry="869"/>
                 <zone xml:id="zone_01GERQW9M43F8KY4XFRCTVT9V3" type="measure" ulx="699" uly="488" lrx="977" lry="863"/>
@@ -54,7 +54,7 @@
                 <zone xml:id="zone_01GERQW9M9KQ84FTHB99C6V8HB" type="measure" ulx="1418" uly="1934" lrx="1770" lry="2313"/>
             </surface>
             <surface xml:id="surface_01GERQW9M90XC8SBATMXE4K14P" n="2" ulx="0" uly="0" lrx="1829" lry="2406">
-                <graphic xml:id="graphic_01GERQW9M9T0BNF3RTJ36V016W" target="IMSLP58150-PMLP30951-Beethoven_Werke_Breitkopf_Serie_18_No_192_WoO_57-2.jpg" width="1830" height="2407"/>
+                <graphic xml:id="graphic_01GERQW9M9T0BNF3RTJ36V016W" target="img/IMSLP58150-PMLP30951-Beethoven_Werke_Breitkopf_Serie_18_No_192_WoO_57-2.jpg" width="1830" height="2407"/>
                 <zone xml:id="zone_01GERQW9MA5Z710WBCHMV92SXG" type="measure" ulx="50" uly="188" lrx="567" lry="527"/>
                 <zone xml:id="zone_01GERQW9MAZ3NN7S6CNV2W7C5D" type="measure" ulx="519" uly="197" lrx="834" lry="517"/>
                 <zone xml:id="zone_01GERQW9MAZGY0XF5KCKCQYG03" type="measure" ulx="793" uly="172" lrx="1180" lry="519"/>
@@ -88,7 +88,7 @@
                 <zone xml:id="zone_01GERQW9MJPNGV5PGVJV70YMWG" type="measure" ulx="1423" uly="1931" lrx="1744" lry="2274"/>
             </surface>
             <surface xml:id="surface_01GERQW9MJWKYZVVEH4X99604R" n="3" ulx="0" uly="0" lrx="1829" lry="2406">
-                <graphic xml:id="graphic_01GERQW9MKCHWJAW6EQ0NXXWDK" target="IMSLP58150-PMLP30951-Beethoven_Werke_Breitkopf_Serie_18_No_192_WoO_57-3.jpg" width="1830" height="2407"/>
+                <graphic xml:id="graphic_01GERQW9MKCHWJAW6EQ0NXXWDK" target="img/IMSLP58150-PMLP30951-Beethoven_Werke_Breitkopf_Serie_18_No_192_WoO_57-3.jpg" width="1830" height="2407"/>
                 <zone xml:id="zone_01GERQW9MK7VXMJ2HZ54VJSXEK" type="measure" ulx="62" uly="129" lrx="609" lry="483"/>
                 <zone xml:id="zone_01GERQW9MK09AJTKCEMYYX5V9P" type="measure" ulx="556" uly="135" lrx="945" lry="489"/>
                 <zone xml:id="zone_01GERQW9MKST9NYHA1RW3EE3JY" type="measure" ulx="912" uly="128" lrx="1345" lry="489"/>
@@ -120,7 +120,7 @@
                 <zone xml:id="zone_01GERQW9MPDRJA56DMAQ0MHTZZ" type="measure" ulx="1400" uly="1932" lrx="1768" lry="2315"/>
             </surface>
             <surface xml:id="surface_01GERQW9MQB0VTX1PYYBVWDCXG" n="4" ulx="0" uly="0" lrx="1829" lry="2406">
-                <graphic xml:id="graphic_01GERQW9MQSRH10R7WX0KYR6EE" target="IMSLP58150-PMLP30951-Beethoven_Werke_Breitkopf_Serie_18_No_192_WoO_57-4.jpg" width="1830" height="2407"/>
+                <graphic xml:id="graphic_01GERQW9MQSRH10R7WX0KYR6EE" target="img/IMSLP58150-PMLP30951-Beethoven_Werke_Breitkopf_Serie_18_No_192_WoO_57-4.jpg" width="1830" height="2407"/>
                 <zone xml:id="zone_01GERQW9MQFEZW47Q1RYMP4ARK" type="measure" ulx="48" uly="152" lrx="626" lry="538"/>
                 <zone xml:id="zone_01GERQW9MQZJ2RNCHAY5J14GFY" type="measure" ulx="575" uly="148" lrx="996" lry="536"/>
                 <zone xml:id="zone_01GERQW9MQVHE8Y96V3X2NADYJ" type="measure" ulx="949" uly="147" lrx="1373" lry="529"/>
@@ -146,7 +146,7 @@
                 <zone xml:id="zone_01GERQW9MSDC02PAEQJB7SYR4B" type="measure" ulx="1181" uly="1945" lrx="1737" lry="2289"/>
             </surface>
             <surface xml:id="surface_01GERQW9MTEBP7V27EJC1GRGH4" n="5" ulx="0" uly="0" lrx="1829" lry="2406">
-                <graphic xml:id="graphic_01GERQW9MT6WYKAXA7BPCAC4XC" target="IMSLP58150-PMLP30951-Beethoven_Werke_Breitkopf_Serie_18_No_192_WoO_57-5.jpg" width="1830" height="2407"/>
+                <graphic xml:id="graphic_01GERQW9MT6WYKAXA7BPCAC4XC" target="img/IMSLP58150-PMLP30951-Beethoven_Werke_Breitkopf_Serie_18_No_192_WoO_57-5.jpg" width="1830" height="2407"/>
                 <zone xml:id="zone_01GERQW9MTV7FKKBPNQAVD59CK" type="measure" ulx="69" uly="137" lrx="732" lry="506"/>
                 <zone xml:id="zone_01GERQW9MTXS2KSPH1X9FEEWYH" type="measure" ulx="676" uly="142" lrx="1233" lry="511"/>
                 <zone xml:id="zone_01GERQW9MTBQPWGXYEFE8KX9NT" type="measure" ulx="1191" uly="135" lrx="1759" lry="514"/>
@@ -169,7 +169,7 @@
                 <zone xml:id="zone_01GERQW9MXAG6WBM67BXZA7MMN" type="measure" ulx="1405" uly="1907" lrx="1753" lry="2280"/>
             </surface>
             <surface xml:id="surface_01GERQW9MX36SM26Y3ZMWBE63V" n="6" ulx="0" uly="0" lrx="1829" lry="2406">
-                <graphic xml:id="graphic_01GERQW9MXEDK8VPZXFKJ06HB2" target="IMSLP58150-PMLP30951-Beethoven_Werke_Breitkopf_Serie_18_No_192_WoO_57-6.jpg" width="1830" height="2407"/>
+                <graphic xml:id="graphic_01GERQW9MXEDK8VPZXFKJ06HB2" target="img/IMSLP58150-PMLP30951-Beethoven_Werke_Breitkopf_Serie_18_No_192_WoO_57-6.jpg" width="1830" height="2407"/>
                 <zone xml:id="zone_01GERQW9MXT4F87GZ1EMFYC7Q0" type="measure" ulx="24" uly="131" lrx="603" lry="501"/>
                 <zone xml:id="zone_01GERQW9MXNV3TE6C18WM1H5AY" type="measure" ulx="553" uly="144" lrx="956" lry="491"/>
                 <zone xml:id="zone_01GERQW9MY4SE17EFGT921BSCS" type="measure" ulx="908" uly="140" lrx="1381" lry="495"/>
@@ -191,7 +191,7 @@
                 <zone xml:id="zone_01GERQW9N0CWCBQHSV3S5ZZCYC" type="measure" ulx="1175" uly="1927" lrx="1708" lry="2260"/>
             </surface>
             <surface xml:id="surface_01GERQW9N0VG4XABPADWDDRQQA" n="7" ulx="0" uly="0" lrx="1829" lry="2406">
-                <graphic xml:id="graphic_01GERQW9N0X9EEVKBAGMPWHSZ5" target="IMSLP58150-PMLP30951-Beethoven_Werke_Breitkopf_Serie_18_No_192_WoO_57-7.jpg" width="1830" height="2407"/>
+                <graphic xml:id="graphic_01GERQW9N0X9EEVKBAGMPWHSZ5" target="img/IMSLP58150-PMLP30951-Beethoven_Werke_Breitkopf_Serie_18_No_192_WoO_57-7.jpg" width="1830" height="2407"/>
                 <zone xml:id="zone_01GERQW9N08CRMA11FC04Z5KPZ" type="measure" ulx="71" uly="161" lrx="717" lry="530"/>
                 <zone xml:id="zone_01GERQW9N0XZBKN5JD1FR65F9K" type="measure" ulx="673" uly="161" lrx="1251" lry="539"/>
                 <zone xml:id="zone_01GERQW9N0V7RQFESAN45M1V2V" type="measure" ulx="1199" uly="173" lrx="1770" lry="524"/>
@@ -219,7 +219,7 @@
                 <zone xml:id="zone_01GERQW9N3ZSAGDQQVQVV90N2W" type="measure" ulx="1226" uly="1917" lrx="1770" lry="2310"/>
             </surface>
             <surface xml:id="surface_01GERQW9N3VAB9YNFZ7KWCYQGN" n="8" ulx="0" uly="0" lrx="1829" lry="2406">
-                <graphic xml:id="graphic_01GERQW9N3AR7BW1Z7Y41FYXKB" target="IMSLP58150-PMLP30951-Beethoven_Werke_Breitkopf_Serie_18_No_192_WoO_57-8.jpg" width="1830" height="2407"/>
+                <graphic xml:id="graphic_01GERQW9N3AR7BW1Z7Y41FYXKB" target="img/IMSLP58150-PMLP30951-Beethoven_Werke_Breitkopf_Serie_18_No_192_WoO_57-8.jpg" width="1830" height="2407"/>
                 <zone xml:id="zone_01GERQW9N3WW7AC5QKGXA85QN4" type="measure" ulx="32" uly="113" lrx="587" lry="545"/>
                 <zone xml:id="zone_01GERQW9N3WDYEMSP8E5T2BXWV" type="measure" ulx="528" uly="135" lrx="966" lry="534"/>
                 <zone xml:id="zone_01GERQW9N3HB9VPGFR7BMB2TKA" type="measure" ulx="911" uly="137" lrx="1343" lry="527"/>
